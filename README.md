@@ -27,6 +27,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ## Segunda Versão (AF2)
 
 <img src="imagem1.jpg">
-<img src="Imagem2.jpg">
-<img src="Imagem3.jpg">
+<img src="imagem2.jpg">
+<img src="imagem3.jpg">
 <img src="imagem4.jpg">

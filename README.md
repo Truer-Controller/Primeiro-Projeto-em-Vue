@@ -32,7 +32,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 <img src="imagem1.jpg">
 <img src="imagem2.jpg">
 <img src="imagem3.jpg">
-<img src="imagem4.jpg">
+<img src="substituindoimagem4.png">
 
 ## Terceira Versão (AF3)
 

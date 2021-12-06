@@ -19,7 +19,6 @@ export default new Vuex.Store({
     Cursando: [
       { title: "Udemy" },
       { title: "Youtube" },
-      { title: "Udemy" },
     ],
 
 

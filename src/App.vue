@@ -45,6 +45,10 @@
         title: "Cursando",
         address: "/Cursando",
       },
+       {
+        title: "Api",
+        address: "/Api",
+      },
     ],
        titleView:this.$store.state.cards
         

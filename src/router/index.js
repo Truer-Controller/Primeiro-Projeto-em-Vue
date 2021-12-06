@@ -4,6 +4,7 @@ import Home from '../views/Home.vue'
 import Cursando from '../views/Cursando.vue'
 import Estagio from '../views/Estagio.vue'
 import Perfil from '../views/Perfil.vue'
+import Api from '../views/Api.vue'
 
 
 Vue.use(VueRouter)
@@ -28,6 +29,11 @@ const routes = [
     path: '/Cursando',
     name: 'Cursando',
     component: Cursando
+  },
+  {
+    path: '/Api',
+    name: 'Api',
+    component: Api
   },
 ]
 

@@ -18,6 +18,8 @@ export default new Vuex.Store({
     ],
     Cursando: [
       { title: "Udemy" },
+      { title: "Youtube", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/YouTube_social_white_square_%282017%29.svg/2048px-YouTube_social_white_square_%282017%29.svg.png" },
+      { title: "Udemy", image: "https://logodownload.org/wp-content/uploads/2019/07/udemy-logo.png" },
     ],
 
 

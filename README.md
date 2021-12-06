@@ -23,6 +23,9 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
+## Primeira Versão (AF1)
+
+<img src="Af1.png">
 
 ## Segunda Versão (AF2)
 
